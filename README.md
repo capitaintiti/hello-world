@@ -1,3 +1,2 @@
 # hello-world
-first time there
-we are the world
+C'est le début de notre partage de code les boys
